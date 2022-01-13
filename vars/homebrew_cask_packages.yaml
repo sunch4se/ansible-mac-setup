@@ -8,3 +8,4 @@ homebrew_cask_packages:
   - telegram-desktop
   - 1password
   - adguard
+  - alfred
