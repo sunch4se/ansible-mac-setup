@@ -1,0 +1,10 @@
+---
+
+homebrew_cask_packages:
+  - iterm2
+  - docker
+  - visual-studio-code
+  - spotify
+  - telegram-desktop
+  - 1password
+  - adguard
