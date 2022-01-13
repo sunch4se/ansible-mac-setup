@@ -5,7 +5,7 @@ homebrew_cask_packages:
   - docker
   - visual-studio-code
   - spotify
-  - telegram-desktop
+  - telegram
   - 1password
   - adguard
   - alfred
