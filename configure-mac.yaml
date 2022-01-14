@@ -19,3 +19,5 @@
         name: "{{ homebrew_cask_packages }}"
         update_homebrew: yes
         state: present
+      tags: 
+        - cask
