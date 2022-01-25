@@ -19,5 +19,6 @@
         name: "{{ homebrew_cask_packages }}"
         update_homebrew: yes
         state: present
+        # install_options: force
       tags: 
         - cask
