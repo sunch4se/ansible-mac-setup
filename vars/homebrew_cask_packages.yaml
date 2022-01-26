@@ -16,3 +16,4 @@ homebrew_cask_packages:
   - signal
   - microsoft-excel
   - microsoft-word
+  - monitorcontrol
