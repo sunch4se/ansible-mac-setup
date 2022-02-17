@@ -13,6 +13,8 @@
         name: "{{ homebrew_packages }}"
         update_homebrew: yes
         state: present
+      tags: 
+        - formulae
 
     - name: Install homebrew cask packages
       community.general.homebrew_cask:

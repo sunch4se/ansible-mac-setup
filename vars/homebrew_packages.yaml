@@ -4,3 +4,4 @@ homebrew_packages:
   - git
   - bash-completion
   - zsh
+  - azure-cli

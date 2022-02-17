@@ -17,3 +17,6 @@ homebrew_cask_packages:
   - microsoft-excel
   - microsoft-word
   - monitorcontrol
+  - powershell
+  - karabiner-elements
+  - balenaetcher
