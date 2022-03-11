@@ -20,3 +20,5 @@ homebrew_cask_packages:
   - powershell
   - karabiner-elements
   - balenaetcher
+  - slack
+  - microsoft-outlook
