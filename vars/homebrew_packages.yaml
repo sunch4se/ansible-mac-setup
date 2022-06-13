@@ -5,3 +5,6 @@ homebrew_packages:
   - bash-completion
   - zsh
   - azure-cli
+  - terraform
+  - pwgen
+  - ipcalc

@@ -6,19 +6,29 @@ homebrew_cask_packages:
   - visual-studio-code
   - spotify
   - telegram
+  - whatsapp
   - 1password
+  - 1password-cli
   - bettertouchtool
   - alfred
   - microsoft-remote-desktop
   - zoom
   - rectangle
-  - microsoft-teams
   - signal
   - microsoft-excel
   - microsoft-word
+  - microsoft-outlook
+  - microsoft-teams
   - monitorcontrol
   - powershell
   - karabiner-elements
   - balenaetcher
   - slack
-  - microsoft-outlook
+  - wireshark
+  - teamviewer
+  - anydesk
+  - toggl-track
+  - adobe-acrobat-reader
+  - silicon
+  - mos
+  - google-chrome
